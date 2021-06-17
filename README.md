@@ -1,0 +1,1 @@
+Just a collection of different notes i've taken while working, might come in handy for me some day.
