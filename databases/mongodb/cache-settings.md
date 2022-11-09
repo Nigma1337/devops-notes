@@ -1,4 +1,4 @@
-Your mongodb might be running sorta slowly, this could be because wiredTigers cachue is kinda small
+Your mongodb might be running sorta slowly, this could be because wiredTigers cache is kinda small
 
 
 ```

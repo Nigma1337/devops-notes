@@ -1,0 +1,176 @@
+{
+  "main": {
+    "id": "92cfc6d95860d8f0",
+    "type": "split",
+    "children": [
+      {
+        "id": "eefb79fb87a59207",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ebd11d4559339f75",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4d49987f9170474e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "devops/kubernetes/local-config.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e40ca9049b9c6e9b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "linux/PAM.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "272d7823cca59b28",
+    "type": "split",
+    "children": [
+      {
+        "id": "c376c903f5bb2a15",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b64b69b29e575ddd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "81bd05c49885c958",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a5f04d125734f419",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1e0317cf8234209f",
+    "type": "split",
+    "children": [
+      {
+        "id": "1422854b6707458c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6bcad8951cfbb787",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "linux/PAM.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "84533a2cab87c52f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "linux/PAM.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8e55e4b8c5c639bd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0f63099aad3ae7dd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "linux/PAM.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "e40ca9049b9c6e9b",
+  "lastOpenFiles": [
+    "devops/kubernetes/local-config.md",
+    "databases/mongodb/os-optimizations.md",
+    "devops/kubernetes/missing-csi-driver.md",
+    "devops/kubernetes/no-deployed-releases.md",
+    "devops/kubernetes/nginx-proxy-outside.md",
+    "README.md",
+    "OSX/reset-admin.md",
+    "devops/high-load.md",
+    "databases/mongodb/cache-settings.md"
+  ]
+}
